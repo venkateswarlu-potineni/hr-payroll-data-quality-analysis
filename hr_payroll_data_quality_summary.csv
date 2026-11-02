@@ -1,0 +1,9 @@
+"CHECK_NAME","RECORD_COUNT"
+"Total Employee Records",1000
+"Total Payroll Records",1000
+"Duplicate Employee IDs",1
+"Missing Employee Information",5
+"Invalid Employee Salaries",3
+"Payroll Calculation Errors",4
+"Unmatched Payroll Employee IDs",3
+"Missing Payroll Employee IDs",0
